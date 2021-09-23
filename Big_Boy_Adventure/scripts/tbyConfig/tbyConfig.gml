@@ -63,17 +63,17 @@ function tbyConfig() {
 	// These usually change a property of
 	// the textbox manager, affecting all
 	// messages that follow
-	enum TbyAction {
-	    SetSpeaker  = tbyActionSetSpeaker,
-	    SetMaxWidth = tbyActionSetMaxWidth,
-	    SetMaxLines = tbyActionSetMaxLines,
-	    SetOrigin   = tbyActionSetOrigin,
-	    SetPosition = tbyActionSetPosition,
-	    ShowString  = tbyActionShowString,
-	    SetSpeed    = tbyActionSetSpeed,
-	    SetPause    = tbyActionSetPause,
-	    SetFont     = tbyActionSetFont,
-		SetSound    = tbyActionSetSound
+	//enum TbyAction {
+	   // SetSpeaker  = tbyActionSetSpeaker,
+	   // SetMaxWidth = tbyActionSetMaxWidth,
+	   // SetMaxLines = tbyActionSetMaxLines,
+	   // SetOrigin   = tbyActionSetOrigin,
+	   // SetPosition = tbyActionSetPosition,
+	   // ShowString  = tbyActionShowString,
+	  //  SetSpeed    = tbyActionSetSpeed,
+	   // SetPause    = tbyActionSetPause,
+	   // SetFont     = tbyActionSetFont,
+		//SetSound    = tbyActionSetSound
 	}
 
 	/*
@@ -114,4 +114,4 @@ function tbyConfig() {
 #endregion
 
 
-}
+//}
