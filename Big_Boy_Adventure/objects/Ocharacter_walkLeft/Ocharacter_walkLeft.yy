@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "runLeft",
-    "path": "sprites/runLeft/runLeft.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
