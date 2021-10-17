@@ -1,12 +1,7 @@
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 22CB84C8
-/// @DnDArgument : "imageind" ""
-/// @DnDArgument : "spriteind" "atk_down"
-/// @DnDSaveInfo : "spriteind" "atk_down"
+/// @DnDHash : 0956A866
+/// @DnDArgument : "code" "sprite_index = atk_down;$(13_10)$(13_10)image_speed = 1;"
 sprite_index = atk_down;
 
-/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 307BA7A0
 image_speed = 1;
