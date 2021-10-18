@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sndSpeechDefault",
-  "duration": 0.0,
+  "duration": 0.130612,
   "parent": {
     "name": "textboxy",
     "path": "folders/Sounds/textboxy.yy",
