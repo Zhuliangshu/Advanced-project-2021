@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_impass",
+    "path": "objects/par_impass/par_impass.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
