@@ -191,7 +191,7 @@
     "name": "Extensions",
     "path": "folders/Extensions.yy",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.2",
   "name": "Mine_Tileset",
   "tags": [],
   "resourceType": "GMExtension",

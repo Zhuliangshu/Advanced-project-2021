@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_impass",
+    "path": "objects/par_impass/par_impass.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Trees",
-    "path": "folders/Objects/Map Objects/Trees.yy",
+    "name": "Map Objects",
+    "path": "folders/Objects/Map Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "oTree_1",

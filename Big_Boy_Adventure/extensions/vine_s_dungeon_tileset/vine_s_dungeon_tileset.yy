@@ -44,7 +44,7 @@
     "name": "Extensions",
     "path": "folders/Extensions.yy",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.2",
   "name": "vine_s_dungeon_tileset",
   "tags": [],
   "resourceType": "GMExtension",
