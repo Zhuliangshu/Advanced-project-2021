@@ -228,7 +228,7 @@
     {"id":{"name":"tbyUpdatePosition","path":"scripts/tbyUpdatePosition/tbyUpdatePosition.yy",},"order":12,},
     {"id":{"name":"Boss_Room","path":"rooms/Boss_Room/Boss_Room.yy",},"order":8,},
     {"id":{"name":"SMS_Waterfall_splash_8x8","path":"sprites/SMS_Waterfall_splash_8x8/SMS_Waterfall_splash_8x8.yy",},"order":6,},
-    {"id":{"name":"oSound","path":"objects/oSound/oSound.yy",},"order":9,},
+    {"id":{"name":"oSound","path":"objects/oSound/oSound.yy",},"order":3,},
     {"id":{"name":"oGoblin","path":"objects/oGoblin/oGoblin.yy",},"order":3,},
     {"id":{"name":"obj_gem_green","path":"objects/obj_gem_green/obj_gem_green.yy",},"order":1,},
     {"id":{"name":"obj_ground_center_8","path":"objects/obj_ground_center_8/obj_ground_center_8.yy",},"order":15,},
