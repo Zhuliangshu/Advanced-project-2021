@@ -97,7 +97,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Cave_6",
+  "name": "Cave_m",
   "tags": [],
   "resourceType": "GMRoom",
 }

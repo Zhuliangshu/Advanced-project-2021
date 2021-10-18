@@ -14,6 +14,9 @@
   ],
   "layers": [
     {"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[
+        {"instances":[
+            {"properties":[],"isDnd":false,"objectId":{"name":"To_a2","path":"objects/To_a2/To_a2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":-20.0,"resourceVersion":"1.0","name":"inst_2CB49FB3","tags":[],"resourceType":"GMRInstance",},
+          ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
         {"tilesetId":{"name":"cave_TileSet","path":"tilesets/cave_TileSet/cave_TileSet.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":19,"SerialiseHeight":19,"TileSerialiseData":[
 2147483648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,2147483648,
 2147483648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,2147483648,
@@ -34,7 +37,7 @@
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
-],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"items","tags":[],"resourceType":"GMRTileLayer",},
+],},"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"items","tags":[],"resourceType":"GMRTileLayer",},
         {"tilesetId":{"name":"cave_TileSet","path":"tilesets/cave_TileSet/cave_TileSet.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":19,"SerialiseHeight":19,"TileSerialiseData":[
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,33,34,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,33,34,0,
@@ -55,7 +58,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,40,41,42,50,
 0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,50,50,50,50,
 0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,50,50,50,50,
-],},"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"ground","tags":[],"resourceType":"GMRTileLayer",},
+],},"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"ground","tags":[],"resourceType":"GMRTileLayer",},
         {"tilesetId":{"name":"cave_TileSet","path":"tilesets/cave_TileSet/cave_TileSet.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":19,"SerialiseHeight":19,"TileSerialiseData":[
 50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,
 50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,
@@ -76,14 +79,15 @@
 50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,
 50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,
 50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,
-],},"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"water","tags":[],"resourceType":"GMRTileLayer",},
+],},"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"water","tags":[],"resourceType":"GMRTileLayer",},
       ],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Cave_layer","tags":[],"resourceType":"GMRLayer",},
-    {"instances":[],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
   ],
   "inheritLayers": false,
   "creationCodeFile": "",
   "inheritCode": false,
-  "instanceCreationOrder": [],
+  "instanceCreationOrder": [
+    {"name":"inst_2CB49FB3","path":"rooms/Cave_a3/Cave_a3.yy",},
+  ],
   "inheritCreationOrder": false,
   "sequenceId": null,
   "roomSettings": {
@@ -110,7 +114,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Cave_4",
+  "name": "Cave_a3",
   "tags": [],
   "resourceType": "GMRoom",
 }
