@@ -7,7 +7,7 @@
   "packageId": "com.grandepixel.minetileset",
   "productId": "ACBD3CFF4E539AD869A0E8E3B4B022DD",
   "author": "",
-  "date": "2021-09-22T10:59:51.6781245-04:00",
+  "date": "2021-09-22T09:59:51.6781245-05:00",
   "license": "Free to use, also for commercial games.",
   "description": "",
   "helpfile": "",
