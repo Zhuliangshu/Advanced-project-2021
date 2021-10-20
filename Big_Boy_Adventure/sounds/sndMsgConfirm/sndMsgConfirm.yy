@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sndMsgConfirm",
-  "duration": 0.0,
+  "duration": 0.214671,
   "parent": {
     "name": "textboxy",
     "path": "folders/Sounds/textboxy.yy",
