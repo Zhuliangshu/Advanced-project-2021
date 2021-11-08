@@ -1,0 +1,6 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 59CC3313
+/// @DnDArgument : "expr" ""Cave_a1""
+/// @DnDArgument : "var" "room_name"
+room_name = "Cave_a1";

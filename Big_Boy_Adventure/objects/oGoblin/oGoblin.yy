@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGoblin",
-    "path": "sprites/sGoblin/sGoblin.yy",
+    "name": "goblin",
+    "path": "sprites/goblin/goblin.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "monster",
-    "path": "folders/Objects/enemy/monster.yy",
+    "path": "folders/Objects/monster.yy",
   },
   "resourceVersion": "1.0",
   "name": "oGoblin",

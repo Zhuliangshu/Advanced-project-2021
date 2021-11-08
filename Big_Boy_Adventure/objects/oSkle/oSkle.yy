@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "monster",
-    "path": "folders/Objects/enemy/monster.yy",
+    "path": "folders/Objects/monster.yy",
   },
   "resourceVersion": "1.0",
   "name": "oSkle",

@@ -20,14 +20,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "monster",
-    "path": "folders/Objects/enemy/monster.yy",
+    "path": "folders/Objects/monster.yy",
   },
   "resourceVersion": "1.0",
   "name": "oBat",
