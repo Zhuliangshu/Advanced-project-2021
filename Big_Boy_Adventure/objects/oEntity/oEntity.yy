@@ -18,14 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [],
-  "properties": [],
+  "properties": [
+    {"varType":0,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateScript","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":0,"value":"[1]","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"entityActivateArgs","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "enemy",
     "path": "folders/Objects/enemy.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_enemy",
+  "name": "oEntity",
   "tags": [],
   "resourceType": "GMObject",
 }

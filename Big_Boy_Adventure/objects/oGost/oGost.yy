@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "monster",
-    "path": "folders/Objects/monster.yy",
+    "path": "folders/Objects/enemy/monster.yy",
   },
   "resourceVersion": "1.0",
   "name": "oGost",
