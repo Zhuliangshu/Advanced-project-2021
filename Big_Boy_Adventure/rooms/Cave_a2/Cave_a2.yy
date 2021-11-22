@@ -56,7 +56,6 @@
     {"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[
         {"instances":[
             {"properties":[],"isDnd":false,"objectId":{"name":"Ocharacter_character","path":"objects/Ocharacter_character/Ocharacter_character.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":512.0,"resourceVersion":"1.0","name":"inst_6DCD4F14","tags":[],"resourceType":"GMRInstance",},
-            {"properties":[],"isDnd":true,"objectId":{"name":"To_a1","path":"objects/To_a1/To_a1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":480.0,"resourceVersion":"1.0","name":"inst_5229A55F","tags":[],"resourceType":"GMRInstance",},
             {"properties":[],"isDnd":true,"objectId":{"name":"To_a3","path":"objects/To_a3/To_a3.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":0.4,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":576.0,"resourceVersion":"1.0","name":"inst_697B2F15","tags":[],"resourceType":"GMRInstance",},
             {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":7.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_45D33BBE","tags":[],"resourceType":"GMRInstance",},
             {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_20B7D6D5","tags":[],"resourceType":"GMRInstance",},
@@ -144,7 +143,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_6DCD4F14","path":"rooms/Cave_a2/Cave_a2.yy",},
-    {"name":"inst_5229A55F","path":"rooms/Cave_a2/Cave_a2.yy",},
     {"name":"inst_697B2F15","path":"rooms/Cave_a2/Cave_a2.yy",},
     {"name":"inst_45D33BBE","path":"rooms/Cave_a2/Cave_a2.yy",},
     {"name":"inst_20B7D6D5","path":"rooms/Cave_a2/Cave_a2.yy",},
