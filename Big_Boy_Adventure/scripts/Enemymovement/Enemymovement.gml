@@ -1,3 +1,4 @@
+
 function enemy(){
 	
 if(!m_isAttacking && !m_isInSkill){
