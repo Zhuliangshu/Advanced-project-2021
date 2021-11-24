@@ -8,3 +8,5 @@ m_playerDirection = PlayerDirection.DOWN;
 
 m_isAttacking = false;
 m_isInSkill = false;
+
+m_fired = false;
