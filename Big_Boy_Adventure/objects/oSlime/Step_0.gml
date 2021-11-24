@@ -72,5 +72,5 @@ else if(state == states.attcak){
 	
 	if(image_index> image_number-1){ state = states.alert;}
 	
-	sprite_index = spr_enemy_slash;
+	sprite_index = spr_slime_walk;
 }
