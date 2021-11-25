@@ -1,0 +1,163 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 1,
+  "bbox_right": 30,
+  "bbox_top": 0,
+  "bbox_bottom": 31,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 32,
+  "height": 32,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"ab8bf6be-67fb-4584-9d70-45ea4f4aeb2d","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ab8bf6be-67fb-4584-9d70-45ea4f4aeb2d","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"ab8bf6be-67fb-4584-9d70-45ea4f4aeb2d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"898b4cab-5c32-4107-8a6a-071aab7df290","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"898b4cab-5c32-4107-8a6a-071aab7df290","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"898b4cab-5c32-4107-8a6a-071aab7df290","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e48d5a87-c202-45a9-b4b6-117043c98411","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e48d5a87-c202-45a9-b4b6-117043c98411","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"e48d5a87-c202-45a9-b4b6-117043c98411","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e55e31a3-3926-4028-93a0-f470e69387d6","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e55e31a3-3926-4028-93a0-f470e69387d6","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"e55e31a3-3926-4028-93a0-f470e69387d6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"98715d3c-bcb1-45b5-8b94-f1cabf3567d7","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"98715d3c-bcb1-45b5-8b94-f1cabf3567d7","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"98715d3c-bcb1-45b5-8b94-f1cabf3567d7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8e587f02-7c82-4acd-9300-dda8c396c13e","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8e587f02-7c82-4acd-9300-dda8c396c13e","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"8e587f02-7c82-4acd-9300-dda8c396c13e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8355fa96-264f-4bb3-8ad5-88ddd52226bc","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8355fa96-264f-4bb3-8ad5-88ddd52226bc","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"8355fa96-264f-4bb3-8ad5-88ddd52226bc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7d4bfaee-a019-4d34-a6b6-643989eb8812","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7d4bfaee-a019-4d34-a6b6-643989eb8812","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"7d4bfaee-a019-4d34-a6b6-643989eb8812","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fd48e378-b82d-48d2-aaf1-4a23602f3132","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fd48e378-b82d-48d2-aaf1-4a23602f3132","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"fd48e378-b82d-48d2-aaf1-4a23602f3132","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c053ec33-68df-4bee-ab79-caa07fbb7234","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c053ec33-68df-4bee-ab79-caa07fbb7234","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"c053ec33-68df-4bee-ab79-caa07fbb7234","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"13b187d4-4e76-481f-b373-27c5ec256f13","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"13b187d4-4e76-481f-b373-27c5ec256f13","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"13b187d4-4e76-481f-b373-27c5ec256f13","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b943929-5667-40f9-bd42-9eb0b2cca1cd","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b943929-5667-40f9-bd42-9eb0b2cca1cd","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"6b943929-5667-40f9-bd42-9eb0b2cca1cd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"681583b2-eb95-4277-9b5e-875a39ba0c5c","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"681583b2-eb95-4277-9b5e-875a39ba0c5c","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"681583b2-eb95-4277-9b5e-875a39ba0c5c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4211f81e-6de1-4066-a1fb-4cda5760a274","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4211f81e-6de1-4066-a1fb-4cda5760a274","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"4211f81e-6de1-4066-a1fb-4cda5760a274","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1cee060b-4365-47f3-a432-e1cda416a226","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1cee060b-4365-47f3-a432-e1cda416a226","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"1cee060b-4365-47f3-a432-e1cda416a226","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f0134fef-5082-41a2-89ed-18f2df334562","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f0134fef-5082-41a2-89ed-18f2df334562","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"f0134fef-5082-41a2-89ed-18f2df334562","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"150c0649-63ab-4521-ad30-380fedb93c17","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"150c0649-63ab-4521-ad30-380fedb93c17","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"150c0649-63ab-4521-ad30-380fedb93c17","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c70243e5-709d-47e2-b1d1-d8eccc5122b6","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c70243e5-709d-47e2-b1d1-d8eccc5122b6","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"c70243e5-709d-47e2-b1d1-d8eccc5122b6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a5fdf4c1-4261-42d5-8df1-639fe62a6722","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a5fdf4c1-4261-42d5-8df1-639fe62a6722","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"a5fdf4c1-4261-42d5-8df1-639fe62a6722","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ba0b6f01-5fda-4020-bb45-b1251b8abd3c","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ba0b6f01-5fda-4020-bb45-b1251b8abd3c","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"ba0b6f01-5fda-4020-bb45-b1251b8abd3c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"94374ccc-c62b-4213-8b67-edfc3219f13e","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"94374ccc-c62b-4213-8b67-edfc3219f13e","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"94374ccc-c62b-4213-8b67-edfc3219f13e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0edc8b95-8d9e-43bd-acf6-b554a9984b95","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0edc8b95-8d9e-43bd-acf6-b554a9984b95","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"LayerId":{"name":"61917926-3371-4955-aa35-5978b1c0813a","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","name":"0edc8b95-8d9e-43bd-acf6-b554a9984b95","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 22.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"8d4b4b93-77cc-4752-b1fa-8b85577b5c8e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ab8bf6be-67fb-4584-9d70-45ea4f4aeb2d","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"21035008-cee3-4cae-bc8d-158adf1ef347","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"898b4cab-5c32-4107-8a6a-071aab7df290","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"09fa915a-10b6-4814-b94e-bda3e556ddb9","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e48d5a87-c202-45a9-b4b6-117043c98411","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c6df8339-a7dc-4087-9027-d68801f20da4","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e55e31a3-3926-4028-93a0-f470e69387d6","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7c474102-e861-4d52-bdc3-05513becb3d0","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98715d3c-bcb1-45b5-8b94-f1cabf3567d7","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"32bbf183-3717-4158-9ad6-0c4360b5c548","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8e587f02-7c82-4acd-9300-dda8c396c13e","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"39284510-c4b7-4d5a-9d14-e65350736d71","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8355fa96-264f-4bb3-8ad5-88ddd52226bc","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3514cbe8-481c-4955-9fca-38071418fbbc","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7d4bfaee-a019-4d34-a6b6-643989eb8812","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7e19dc5d-b6b2-4e19-b3ed-c47dd0dd41a5","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd48e378-b82d-48d2-aaf1-4a23602f3132","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d3415684-74a8-4666-960c-ea9f153c853d","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c053ec33-68df-4bee-ab79-caa07fbb7234","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5881e3eb-14f4-4e27-8c87-928c94c808e2","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13b187d4-4e76-481f-b373-27c5ec256f13","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4bfdc540-a983-4a1d-b99f-b72cdc2ad0fa","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b943929-5667-40f9-bd42-9eb0b2cca1cd","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ae1e6085-ce8e-49f9-95dc-b5912214e87b","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"681583b2-eb95-4277-9b5e-875a39ba0c5c","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d7c2545f-678f-4fe5-bc3e-ab6349fdeb82","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4211f81e-6de1-4066-a1fb-4cda5760a274","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8fd2bf61-46f0-4216-8c9c-75661247b7ea","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1cee060b-4365-47f3-a432-e1cda416a226","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b8c20b5e-967c-4c69-8d27-2fbf8ccf96be","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f0134fef-5082-41a2-89ed-18f2df334562","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1d1d7150-b630-470b-a3ca-387ef734209f","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"150c0649-63ab-4521-ad30-380fedb93c17","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"305e0324-eb2d-4157-935c-ed1a37f557cd","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c70243e5-709d-47e2-b1d1-d8eccc5122b6","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8b4b268f-ce71-4248-b6cf-deee6f724925","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a5fdf4c1-4261-42d5-8df1-639fe62a6722","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f7473932-0696-4600-9e5f-5daf7e5f88fc","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ba0b6f01-5fda-4020-bb45-b1251b8abd3c","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"658c75c0-2497-4f04-be45-ff0f32f09f2a","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"94374ccc-c62b-4213-8b67-edfc3219f13e","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11047b57-eb49-45d9-be9c-9540ff6e708a","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0edc8b95-8d9e-43bd-acf6-b554a9984b95","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 17,
+    "yorigin": 23,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_fuzzball_die_raster_32","path":"sprites/spr_fuzzball_die_raster_32/spr_fuzzball_die_raster_32.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"61917926-3371-4955-aa35-5978b1c0813a","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "spr_fuzzball_rasterized_32px",
+    "path": "folders/Sprites/spr_fuzzball_rasterized_32px.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_fuzzball_die_raster_32",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

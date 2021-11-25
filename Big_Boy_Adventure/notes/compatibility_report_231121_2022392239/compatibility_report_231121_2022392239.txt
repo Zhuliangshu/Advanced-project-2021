@@ -1,0 +1,31 @@
+Converting GML script: ${project_dir}\scripts\scr_changeSprite\scr_changeSprite.gml
+Converted description /// @description  scr_changeSprite(index)/// @param index
+
+Converting GML script: ${project_dir}\scripts\scr_convertImageSpeed\scr_convertImageSpeed.gml
+Converted description /// @description  scr_convertImageSpeed(originalFPS, targetImageSpeed) /// @param originalFPS
+/// @param  targetImageSpeed
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description  init vars, states
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_2.gml
+Converted description /// @description  update animations based on states
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description  update states, positions
+Converted string - line 23: 'Z' -> "Z"
+Converted string - line 28: 'X' -> "X"
+Converted string - line 33: 'C' -> "C"
+
+Converting GML script: ${project_dir}\objects\obj_player\Other_7.gml
+Converted description /// @description  animation transitions 
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_0.gml
+Converted description /// @description  some debug
+Converted string - line 7: '' -> ""
+Converted string - line 11: 'asleep' -> "asleep"
+Converted string - line 14: 'idle' -> "idle"
+Converted string - line 17: 'walk' -> "walk"
+Converted string - line 20: 'attack' -> "attack"
+Converted string - line 23: 'hurt' -> "hurt"
+Converted string - line 26: 'die' -> "die"

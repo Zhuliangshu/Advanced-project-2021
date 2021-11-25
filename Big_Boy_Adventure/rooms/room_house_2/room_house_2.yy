@@ -14,6 +14,7 @@
   ],
   "layers": [
     {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"Ocharacter_character","path":"objects/Ocharacter_character/Ocharacter_character.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":244.5,"y":472.0,"resourceVersion":"1.0","name":"inst_A32E614_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":true,"objectId":{"name":"room_changer","path":"objects/room_changer/room_changer.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":230.0,"y":517.0,"resourceVersion":"1.0","name":"inst_390BAE79_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":8.59375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":424.0,"y":5.0,"resourceVersion":"1.0","name":"inst_4407E709","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.265625,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":291.0,"y":491.0,"resourceVersion":"1.0","name":"inst_7C3EABD9","tags":[],"resourceType":"GMRInstance",},
@@ -36,6 +37,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
+    {"name":"inst_A32E614_1","path":"rooms/room_house_2/room_house_2.yy",},
     {"name":"inst_390BAE79_1","path":"rooms/room_house_2/room_house_2.yy",},
     {"name":"inst_4407E709","path":"rooms/room_house_2/room_house_2.yy",},
     {"name":"inst_7C3EABD9","path":"rooms/room_house_2/room_house_2.yy",},

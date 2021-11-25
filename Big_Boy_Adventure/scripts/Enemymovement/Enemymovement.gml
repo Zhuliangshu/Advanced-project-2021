@@ -11,12 +11,13 @@ if(m_isDead)
    
 if(!m_isAttacking && !m_isInSkill){
 
-var player = instance_find(NewCharacter, 0);
-
+	var player = instance_find(NewCharacter, 0);
 	var deltaX = player.x - x;
     var deltaY = player.y - y;
 	var mySpeed = 0.5;
-    if(deltaX > mySpeed){
+	
+
+	if(deltaX > mySpeed){
         x += mySpeed;
     }
     else if(deltaX < -mySpeed){
@@ -44,8 +45,11 @@ var player = instance_find(NewCharacter, 0);
         image_xscale =1;	
 		
     }
-    sprite_index = spr_slime2_move;
+    
+	
+	
+	sprite_index = spr_slime2_move;
+}
 }
   
 
-}
