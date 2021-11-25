@@ -15,6 +15,7 @@ speed = 4;
 /// @DnDHash : 22CB84C8
 /// @DnDArgument : "imageind" ""
 /// @DnDArgument : "spriteind" "walk_down"
+/// @DnDSaveInfo : "spriteind" "walk_down"
 sprite_index = walk_down;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
