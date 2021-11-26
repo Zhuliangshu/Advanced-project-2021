@@ -1,5 +1,14 @@
 function character(){
 	
+if(m_character_isDead)
+  return 0;
+    
+if(m_character_hp == 0){
+    m_character_isDead = true;
+    sprite_index = idle_die;
+    return 0;
+   }
+   
 if(!m_isAttacking && !m_isInSkill){
 if keyboard_check(vk_left)
 {

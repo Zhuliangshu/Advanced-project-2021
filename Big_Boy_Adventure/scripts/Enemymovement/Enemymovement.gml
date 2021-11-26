@@ -45,10 +45,29 @@ if(!m_isAttacking && !m_isInSkill){
         image_xscale =1;	
 		
     }
-    
-	
-	
+   
 	sprite_index = spr_slime2_move;
+	if (distance_to_point(player.x, player.y) < m_dashDistance){
+        m_enemyState= ENEMYSTATE.ENEMY_ATTACK;
+		m_isAttacking = true;
+        if(x < player.x){
+            //m_dashTargetX = player.x - m_dashDelta;
+			sprite_index = spr_slime2_attackfromright;
+			
+			image_index = 0;
+			m_fired = false;
+        }
+        else{
+            //m_dashTargetX = player.x + m_dashDelta;
+			sprite_index = spr_slime2_attackfromright; 
+			//image_xscale =1
+			image_index = 0;
+			m_fired = false;
+        }
+        //m_dashTargetY = player.y;
+    }
+	
+	
 }
 }
   

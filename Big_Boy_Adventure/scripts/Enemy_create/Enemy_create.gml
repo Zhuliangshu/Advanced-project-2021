@@ -27,7 +27,7 @@ m_hp = 10;
 m_isDead = false;
 
 //Enemy AI
-m_dashDistance = 200;
+m_dashDistance = 30;
 m_dashDelta = 40;
 m_dashTargetX = 0;
 m_dashTargetY = 0;
