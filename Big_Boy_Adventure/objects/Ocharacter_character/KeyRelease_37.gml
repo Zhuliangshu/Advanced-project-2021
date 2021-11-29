@@ -7,5 +7,6 @@ speed = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 4C9EEA46
 /// @DnDArgument : "spriteind" "idle_left"
+/// @DnDSaveInfo : "spriteind" "idle_left"
 sprite_index = idle_left;
 image_index = 0;

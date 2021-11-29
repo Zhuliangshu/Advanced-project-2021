@@ -1,6 +1,7 @@
 if(m_isAttacking && (sprite_index == atk_down
     || sprite_index == atk_left
-    || sprite_index == atk_up)){
+    || sprite_index == atk_up
+	|| sprite_index == atk_right)){
     m_isAttacking = false;
 }
 if(m_isInSkill && sprite_index == attack01){

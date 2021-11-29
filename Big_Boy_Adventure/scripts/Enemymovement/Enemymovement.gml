@@ -6,6 +6,7 @@ if(m_isDead)
   if(m_hp == 0){
     m_isDead = true;
     sprite_index = spr_slime2_die;
+	instance_destroy();
     return 0;
    }	
    

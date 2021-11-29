@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "textboxy",
-    "path": "folders/Objects/textboxy.yy",
+    "name": "Room_changer",
+    "path": "folders/Objects/Room_changer.yy",
   },
   "resourceVersion": "1.0",
   "name": "tbyText",

@@ -136,7 +136,8 @@
     {"id":{"name":"confirm_style_2_001","path":"sounds/confirm_style_2_001/confirm_style_2_001.yy",},"order":3,},
     {"id":{"name":"tbyGetBoxHeight","path":"scripts/tbyGetBoxHeight/tbyGetBoxHeight.yy",},"order":5,},
     {"id":{"name":"tbyActionShowString","path":"scripts/tbyActionShowString/tbyActionShowString.yy",},"order":9,},
-    {"id":{"name":"tbyText","path":"objects/tbyText/tbyText.yy",},"order":0,},
+    {"id":{"name":"stab","path":"sprites/stab/stab.yy",},"order":1,},
+    {"id":{"name":"tbyText","path":"objects/tbyText/tbyText.yy",},"order":12,},
     {"id":{"name":"par_impass","path":"objects/par_impass/par_impass.yy",},"order":4,},
     {"id":{"name":"Items","path":"tilesets/Items/Items.yy",},"order":1,},
     {"id":{"name":"tbyActionSetMaxLines","path":"scripts/tbyActionSetMaxLines/tbyActionSetMaxLines.yy",},"order":1,},
@@ -235,6 +236,7 @@
     {"id":{"name":"spr_ground_bottom_left_3","path":"sprites/spr_ground_bottom_left_3/spr_ground_bottom_left_3.yy",},"order":2,},
     {"id":{"name":"oCollision_c","path":"objects/oCollision_c/oCollision_c.yy",},"order":2,},
     {"id":{"name":"spr_ground_center_12","path":"sprites/spr_ground_center_12/spr_ground_center_12.yy",},"order":3,},
+    {"id":{"name":"Sprite238","path":"sprites/Sprite238/Sprite238.yy",},"order":25,},
     {"id":{"name":"spr_fuzzball_sleep_raster","path":"sprites/spr_fuzzball_sleep_raster/spr_fuzzball_sleep_raster.yy",},"order":4,},
     {"id":{"name":"obj_gem_green","path":"objects/obj_gem_green/obj_gem_green.yy",},"order":1,},
     {"id":{"name":"tbyFindLineBreakPosition","path":"scripts/tbyFindLineBreakPosition/tbyFindLineBreakPosition.yy",},"order":4,},
@@ -351,6 +353,7 @@
     {"id":{"name":"obj_board_left_red","path":"objects/obj_board_left_red/obj_board_left_red.yy",},"order":3,},
     {"id":{"name":"obj_board_right_black","path":"objects/obj_board_right_black/obj_board_right_black.yy",},"order":4,},
     {"id":{"name":"oSkle","path":"objects/oSkle/oSkle.yy",},"order":3,},
+    {"id":{"name":"Sprite239","path":"sprites/Sprite239/Sprite239.yy",},"order":26,},
     {"id":{"name":"spr_red_gem","path":"sprites/spr_red_gem/spr_red_gem.yy",},"order":2,},
     {"id":{"name":"spr_fuzzball_walk_raster_64","path":"sprites/spr_fuzzball_walk_raster_64/spr_fuzzball_walk_raster_64.yy",},"order":6,},
     {"id":{"name":"spr_ground_center_17","path":"sprites/spr_ground_center_17/spr_ground_center_17.yy",},"order":8,},
@@ -409,6 +412,7 @@
     {"id":{"name":"SMS_Waterfall_Tiles_8x8","path":"sprites/SMS_Waterfall_Tiles_8x8/SMS_Waterfall_Tiles_8x8.yy",},"order":8,},
     {"id":{"name":"o_level","path":"objects/o_level/o_level.yy",},"order":22,},
     {"id":{"name":"houses_sheet","path":"sprites/houses_sheet/houses_sheet.yy",},"order":2,},
+    {"id":{"name":"oStab","path":"objects/oStab/oStab.yy",},"order":5,},
     {"id":{"name":"obj_ground_center_14","path":"objects/obj_ground_center_14/obj_ground_center_14.yy",},"order":5,},
     {"id":{"name":"spr_ground_left_7","path":"sprites/spr_ground_left_7/spr_ground_left_7.yy",},"order":9,},
     {"id":{"name":"Ocharacter_walkLeft","path":"objects/Ocharacter_walkLeft/Ocharacter_walkLeft.yy",},"order":8,},
@@ -508,6 +512,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Cave_a2","path":"rooms/Cave_a2/Cave_a2.yy",},},
     {"roomId":{"name":"Main_menu_room","path":"rooms/Main_menu_room/Main_menu_room.yy",},},
     {"roomId":{"name":"Main_menu_setting_room","path":"rooms/Main_menu_setting_room/Main_menu_setting_room.yy",},},
     {"groupName":"Main_map","children":[
@@ -518,7 +523,6 @@
       ],},
     {"groupName":"Cave_a","children":[
         {"roomId":{"name":"Cave_a1","path":"rooms/Cave_a1/Cave_a1.yy",},},
-        {"roomId":{"name":"Cave_a2","path":"rooms/Cave_a2/Cave_a2.yy",},},
         {"roomId":{"name":"Cave_a3","path":"rooms/Cave_a3/Cave_a3.yy",},},
       ],},
     {"groupName":"Cave_m","children":[
@@ -655,7 +659,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "Big_Boy_Adventure",
