@@ -134,6 +134,7 @@
     {"id":{"name":"spr_ground_center_6","path":"sprites/spr_ground_center_6/spr_ground_center_6.yy",},"order":13,},
     {"id":{"name":"SMS_Stonelands_16x16_128x128_1","path":"sprites/SMS_Stonelands_16x16_128x128_1/SMS_Stonelands_16x16_128x128_1.yy",},"order":1,},
     {"id":{"name":"confirm_style_2_001","path":"sounds/confirm_style_2_001/confirm_style_2_001.yy",},"order":3,},
+    {"id":{"name":"oStart","path":"objects/oStart/oStart.yy",},"order":12,},
     {"id":{"name":"tbyGetBoxHeight","path":"scripts/tbyGetBoxHeight/tbyGetBoxHeight.yy",},"order":5,},
     {"id":{"name":"tbyActionShowString","path":"scripts/tbyActionShowString/tbyActionShowString.yy",},"order":9,},
     {"id":{"name":"stab","path":"sprites/stab/stab.yy",},"order":1,},
@@ -475,6 +476,7 @@
     {"id":{"name":"spr_ground_right_5","path":"sprites/spr_ground_right_5/spr_ground_right_5.yy",},"order":7,},
     {"id":{"name":"spr_house_4","path":"sprites/spr_house_4/spr_house_4.yy",},"order":3,},
     {"id":{"name":"obj_board_left_black","path":"objects/obj_board_left_black/obj_board_left_black.yy",},"order":3,},
+    {"id":{"name":"Sprite241","path":"sprites/Sprite241/Sprite241.yy",},"order":27,},
     {"id":{"name":"oTree_1","path":"objects/oTree_1/oTree_1.yy",},"order":3,},
     {"id":{"name":"obj_misc_box_small","path":"objects/obj_misc_box_small/obj_misc_box_small.yy",},"order":3,},
     {"id":{"name":"spr_ground_right_9","path":"sprites/spr_ground_right_9/spr_ground_right_9.yy",},"order":11,},
@@ -512,7 +514,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Cave_a2","path":"rooms/Cave_a2/Cave_a2.yy",},},
     {"roomId":{"name":"Main_menu_room","path":"rooms/Main_menu_room/Main_menu_room.yy",},},
     {"roomId":{"name":"Main_menu_setting_room","path":"rooms/Main_menu_setting_room/Main_menu_setting_room.yy",},},
     {"groupName":"Main_map","children":[
@@ -524,6 +525,7 @@
     {"groupName":"Cave_a","children":[
         {"roomId":{"name":"Cave_a1","path":"rooms/Cave_a1/Cave_a1.yy",},},
         {"roomId":{"name":"Cave_a3","path":"rooms/Cave_a3/Cave_a3.yy",},},
+        {"roomId":{"name":"Cave_a2","path":"rooms/Cave_a2/Cave_a2.yy",},},
       ],},
     {"groupName":"Cave_m","children":[
         {"roomId":{"name":"Cave_m","path":"rooms/Cave_m/Cave_m.yy",},},

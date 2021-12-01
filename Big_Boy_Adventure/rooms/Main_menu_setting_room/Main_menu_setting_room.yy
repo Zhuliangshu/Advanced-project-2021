@@ -14,14 +14,13 @@
   ],
   "layers": [
     {"assets":[
-        {"x":192.0,"y":256.0,"spriteId":{"name":"window_button","path":"sprites/window_button/window_button.yy",},"ignore":false,"headPosition":0.0,"rotation":0.0,"scaleX":0.644444466,"scaleY":0.488,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"inheritItemSettings":false,"resourceVersion":"1.0","name":"graphic_7F09F3B4","tags":[],"resourceType":"GMRSpriteGraphic",},
-        {"x":192.000031,"y":352.0,"spriteId":{"name":"resolution","path":"sprites/resolution/resolution.yy",},"ignore":false,"headPosition":0.0,"rotation":0.0,"scaleX":0.620985,"scaleY":0.487999976,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"inheritItemSettings":false,"resourceVersion":"1.0","name":"graphic_7031CADD","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"window_button","path":"sprites/window_button/window_button.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.644444466,"scaleY":0.488,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":256.0,"resourceVersion":"1.0","name":"graphic_7F09F3B4","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"resolution","path":"sprites/resolution/resolution.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.620985,"scaleY":0.487999976,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.000031,"y":352.0,"resourceVersion":"1.0","name":"graphic_7031CADD","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"tilesetId":null,"x":0,"y":0,"tiles":{"SerialiseWidth":0,"SerialiseHeight":0,"TileSerialiseData":[
 ],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Tiles_1","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_board_left_black","path":"objects/obj_board_left_black/obj_board_left_black.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":31.0,"y":686.0,"resourceVersion":"1.0","name":"inst_7304640C","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_menu","path":"objects/o_menu/o_menu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-0.1467098,"scaleX":0.800856531,"scaleY":0.496,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":352.0,"resourceVersion":"1.0","name":"inst_7EEDBA5E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Yes_Button","path":"objects/Yes_Button/Yes_Button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7253219,"scaleY":0.488,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":256.0,"resourceVersion":"1.0","name":"inst_2AC73FDF","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"No_Button","path":"objects/No_Button/No_Button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7253219,"scaleY":0.488,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":256.0,"resourceVersion":"1.0","name":"inst_3831CA4F","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
@@ -32,7 +31,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_7304640C","path":"rooms/Main_menu_setting_room/Main_menu_setting_room.yy",},
-    {"name":"inst_7EEDBA5E","path":"rooms/Main_menu_setting_room/Main_menu_setting_room.yy",},
     {"name":"inst_2AC73FDF","path":"rooms/Main_menu_setting_room/Main_menu_setting_room.yy",},
     {"name":"inst_3831CA4F","path":"rooms/Main_menu_setting_room/Main_menu_setting_room.yy",},
   ],
