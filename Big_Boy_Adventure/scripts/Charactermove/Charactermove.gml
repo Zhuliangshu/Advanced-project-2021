@@ -1,20 +1,26 @@
 function character(){
-	
+	if(currentHealth > 0){
+		m_character_isDead = false;
+		sprite_index = idle_down;
+	}
 if(m_character_isDead)
   return 0;
     
-if(m_character_hp == 0){
+if(currentHealth == 0){
     m_character_isDead = true;
     sprite_index = idle_die;
-    return 0;
+	return 0;
    }
    
+   if keyboard_check_pressed(ord("R")) game_restart();
+
 if(!m_isAttacking && !m_isInSkill){
 if keyboard_check(vk_left)
 {
     x = x - 4;
     sprite_index = walk_left;
    // image_xscale = 1;
+   
    m_playerDirection = PlayerDirection.LEFT
 }
 else if keyboard_check(vk_right)

@@ -9,7 +9,8 @@ m_playerDirection = PlayerDirection.DOWN;
 m_isAttacking = false;
 m_isInSkill = false;
 
-m_character_hp = 10;
+m_Character_maxHealth = 100; 
+currentHealth = m_Character_maxHealth;
 m_character_isDead = false;
 
 m_fired = false;

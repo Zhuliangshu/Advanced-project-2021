@@ -2,5 +2,4 @@
 /// @DnDVersion : 1
 /// @DnDHash : 2E333B16
 /// @DnDArgument : "objectid" "oinventory"
-/// @DnDSaveInfo : "objectid" "oinventory"
 instance_create_layer(0, 0, "Instances", oinventory);

@@ -1,13 +1,13 @@
-if instance_exists(Ocharacter_character) {
-	if distance_to_object(Ocharacter_character) <= 32 {
+if instance_exists(NewCharacter) {
+	if distance_to_object(NewCharacter) <= 32 {
 		var qn = quest_name;
-		with Ocharacter_character {
+		var rr = reward;
+		with NewCharacter {
 			if current_quest_name == qn {
 				quest_complete = true;
-				show_debug_message("finished");
+				quest_reward = rr;
 			}
 		}
 		instance_destroy(self);
 	}
-	
 }

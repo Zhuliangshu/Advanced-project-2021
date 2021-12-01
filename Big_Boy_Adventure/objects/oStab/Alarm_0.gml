@@ -8,5 +8,6 @@ global.danger = 1;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 695753DA
+/// @DnDArgument : "steps" "1*room_speed"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, 30);
+alarm_set(1, 1*room_speed);

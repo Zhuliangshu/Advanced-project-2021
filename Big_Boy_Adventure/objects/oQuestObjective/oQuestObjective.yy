@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_questMarker168",
-    "path": "sprites/spr_questMarker168/spr_questMarker168.yy",
+    "name": "spr_questMarker_fin",
+    "path": "sprites/spr_questMarker_fin/spr_questMarker_fin.yy",
   },
   "solid": false,
   "visible": true,

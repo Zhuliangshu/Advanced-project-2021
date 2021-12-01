@@ -30,6 +30,6 @@ if notice_open {
 	} else {
 		draw_text(xx, yy-200, "No Quests Available!");
 	}
-	draw_set_font(fontTbyDefault);
+	draw_set_font(Font4);
 	draw_set_color(c_white);
 }

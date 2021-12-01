@@ -36,5 +36,28 @@ var xx = x/width_ratio;
 var yy = y/height_ratio;
 draw_rectangle(xx, yy, xx+3, yy+3, false);
 
+
+
+
+// Draw current quest
+var keys = variable_struct_get_names(my_quests);
+if array_length(keys) > 0 {
+	var questName = keys[current_quest];
+	var quest = variable_struct_get(my_quests, questName);
+
+	if is_struct(quest) {
+		current_quest_name = quest.Name;
+		draw_set_font(Font2);
+		draw_set_color(c_yellow);
+		draw_text(700, 40, "Current Quest: "+quest.Name);
+		draw_text_ext(700, 70, quest.Objective, 24, 600);
+	}
+}
+
+
+
 //reset draw color
 draw_set_colour(c_white);
+draw_set_font(Font5);
+// Draw gold counter
+draw_text(90, 270, "Gold: "+string(gold));

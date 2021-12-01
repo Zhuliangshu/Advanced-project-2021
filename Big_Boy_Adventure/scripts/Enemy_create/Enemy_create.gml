@@ -25,6 +25,7 @@ m_isInSkill = false;
 //Enemy health
 m_hp = 10;
 m_isDead = false;
+reward_given = false;
 
 //Enemy AI
 m_dashDistance = 30;

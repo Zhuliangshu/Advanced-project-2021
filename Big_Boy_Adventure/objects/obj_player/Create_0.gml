@@ -15,7 +15,7 @@ enum state {
     HURT,
     DIE
 }
-
+boss_life = 10;
 myState = state.ASLEEP; 
 
 //image_speed = scr_convertImageSpeed(animationFPS, 1);  // play back at full speed 

@@ -7,7 +7,7 @@
   "packageId": "com.shroomdoom.fuzzybaddy",
   "productId": "F79C97955FD1AF4686EB4EF4EF90F0DB",
   "author": "",
-  "date": "2021-11-23T20:22:37.7094094-05:00",
+  "date": "2021-11-24T11:22:37.7094094+10:00",
   "license": "Free to use, also for commercial games.",
   "description": "",
   "helpfile": "",

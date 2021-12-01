@@ -71,8 +71,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Big_Boy_Adventure",
-    "path": "Big_Boy_Adventure.yyp",
+    "name": "Big_Boy_Adventure_Quests",
+    "path": "Big_Boy_Adventure_Quests.yyp",
   },
   "resourceVersion": "1.0",
   "name": "spr_questMenu",
